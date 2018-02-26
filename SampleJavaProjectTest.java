@@ -39,4 +39,6 @@ public class SampleJavaProjectTest {
     public final void nullTest() {
         sjp.setName(null);
     }
+	
+	added something here
 }
