@@ -1,3 +1,4 @@
+make changes to the original file
 package sample.java.project;
 
 import static org.junit.Assert.assertEquals;
