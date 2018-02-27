@@ -1,3 +1,5 @@
 folderone/one.txt
 folderone/two.txt
 folderone/three.txt
+foldertwo/
+*.data
